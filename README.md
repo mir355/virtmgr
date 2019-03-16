@@ -1,3 +1,6 @@
+install
+https://www.cnblogs.com/kevingrace/p/5737724.html
+
 Version 2.6:
 - bugfix
 - manual authtorization when manage host
